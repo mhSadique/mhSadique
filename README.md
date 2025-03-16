@@ -2,7 +2,7 @@
 
 ### 🚀 Wix Developer | JavaScript Enthusiast | Web Development Expert  
 
-I specialize in **Wix Velo development**, crafting dynamic and interactive web experiences. With a strong background in **JavaScript, React.js, Node.js, WordPress, and SEO**, I build scalable web solutions that drive results.  
+I specialize in **Wix development**, crafting dynamic and interactive web experiences. With a strong background in **JavaScript, React.js, Node.js, WordPress, and SEO**, I build scalable web solutions that drive results.  
 
 ---
 
@@ -16,10 +16,10 @@ I specialize in **Wix Velo development**, crafting dynamic and interactive web e
 ---
 
 ## 💡 Notable Projects  
-🔹 **[Job Board Website](#)** – A Wix-powered hiring platform with employer and talent dashboards  
-🔹 **[Ecommerce Store Customization](#)** – Enhanced cart functionality with delivery date selection  
-🔹 **[AI-Integrated System](#)** – A GPT-based web app with dynamic data processing  
-🔹 **[News Portal](#)** – WordPress-based newspaper website with custom design and features  
+🔹 **[Job Board Website](https://www.virtualmasst.com/)** – A Wix-powered hiring platform with employer and talent dashboards  
+🔹 **[Ecommerce Store Customization](https://www.happiness-blossom.com)** – Enhanced cart functionality with delivery date selection in a Wix Ecommerce Store  
+🔹 **[AI-Integrated System](https://www.miwworkbook.com/)** – A GPT-based web app with dynamic data processing  
+🔹 **[News Portal](https://somoyrekhanews.com/)** – WordPress-based newspaper website with custom design and features  
 
 ---
 
