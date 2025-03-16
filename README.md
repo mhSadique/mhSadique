@@ -5,8 +5,6 @@
 I specialize in **Wix development**, crafting dynamic and interactive web experiences. With a strong background in **JavaScript, React.js, Node.js, WordPress, and SEO**, I build scalable web solutions that drive results.  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=mhSadique&color=blue)
----
 
 ## 🏆 What I Do  
 ✅ **Wix Development** – Custom web solutions, dynamic features, database integration  
