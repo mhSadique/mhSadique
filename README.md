@@ -72,7 +72,7 @@ I specialize in **Wix development**, crafting dynamic and interactive web experi
 ---
 
 ## 📫 Let's Connect  
-🔗 **Website:** [wixsquad.com](wixsquad.com)  
+🔗 **Website:** [https://www.wixsquad.com](https://www.wixsquad.com)  
 📧 **Email:** sadique@wixsquad.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/sadique-habibullah/](https://www.linkedin.com/in/sadique-habibullah/)  
 🐦 **Twitter:** [@sadique_habi](https://x.com/sadique_habi)  
