@@ -1,6 +1,6 @@
 # Hi there! I'm Sadique 👋  
 
-### 🚀 Wix Developer | JavaScript Enthusiast | Web Development Expert  
+### 🚀 Wix Developer | JavaScript Ninja | Web Development Expert  
 
 I specialize in **Wix development**, crafting dynamic and interactive web experiences. With a strong background in **JavaScript, React.js, Node.js, WordPress, and SEO**, I build scalable web solutions that drive results.  
 
